@@ -1,0 +1,76 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: #ff0000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #000000;
+}
+
+footer {
+    bottom: 0;
+    background-color: #000000;
+    color: #ff0000;
+    height: 2em;
+    left: 0;
+    padding: 1%;
+    position: sticky;
+    font-size: small;
+    width: 100%;
+}
+header{}
+div#kodu{
+    padding: 2%;
+    border: solid 1pt #000000;
+
+}
+div#kuupaev {
+    width: 20%;
+    padding: 2%;
+    border: solid 1pt #000000;
+}
+div#hooaeg {
+    width: 20%;
+    padding: 2%;
+    border: solid 1pt #000000;
+}
+div#koolivaheag {
+    width: 20%;
+    padding: 2%;
+    border: solid 1pt #000000;
+}
+div#minu_sünnipäev {
+    width: 20%;
+    padding: 2%;
+    border: solid 1pt #000000;
+}
+div#vanus {
+    width: 20%;
+    padding: 2%;
+    border: solid 1pt #000000;
+}
+div#täna_kuupäev {
+    width: 20%;
+    padding: 2%;
+    border: solid 1pt #000000;
+}
+div#vihje {
+    width: 20%;
+    padding: 2%;
+    border: solid 1pt #000000;
+}
