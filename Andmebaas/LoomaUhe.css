@@ -1,0 +1,27 @@
+#sisu{
+    float:left;
+}
+
+#meny{
+    padding: 0 0 20px 0;
+    position: relative;
+    text-transform: uppercase;
+    color: #000;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+    font-size: 15px;
+    text-decoration: none;
+}
+input[type=submit]{
+
+}
+
+input[type=text]{
+
+}
+ul{
+
+}
+a:hover{
+
+}
