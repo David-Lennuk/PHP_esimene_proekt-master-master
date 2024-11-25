@@ -1,0 +1,37 @@
+
+#sisu{
+    float:left;
+}table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    width: 100px;
+    cursor: pointer;
+}
+
+.details {
+    display: none;
+    margin-top: 20px;
+}
+
+.details p {
+    font-size: 16px;
+}
+.div.main {
+    background-color: #333;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
